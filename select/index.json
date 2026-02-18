@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今夜だけ浮かれたかった",
+  "base_artist": "つばきファクトリー",
+  "createdAt": "2026-02-18T08:16:03.213024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今夜だけ浮かれたかった",
+      "artist": "つばきファクトリー",
+      "has_synced": false,
+      "path": "select/01_今夜だけ浮かれたかった_つばきファクトリー.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜だけ浮かれたかった",
+      "artist": "つばきファクトリー",
+      "has_synced": false,
+      "path": "select/pl_01_今夜だけ浮かれたかった_つばきファクトリー.txt"
+    }
+  ]
+}
